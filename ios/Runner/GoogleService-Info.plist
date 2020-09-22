@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>480118746172-523ebmjae5a1dps70r5a8s02alt2h25h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.480118746172-523ebmjae5a1dps70r5a8s02alt2h25h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcenxOYOl2n_1Ecl_pyQZ7ToAEgrGM-lk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480118746172</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codingforgood.foodshed</string>
+	<key>PROJECT_ID</key>
+	<string>foodshed-flutter-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodshed-flutter-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480118746172:ios:854e9c5bdb460388daa739</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodshed-flutter-app.firebaseio.com</string>
+</dict>
+</plist>
